@@ -1,0 +1,8 @@
+.post__topInfo > h3 {
+  font-size: medium;
+}
+
+.post__topInfo > p {
+  font-size: small;
+  color: gray;
+}
